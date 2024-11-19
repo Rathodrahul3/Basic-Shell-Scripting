@@ -4,7 +4,7 @@
 ## Purpose: To create multipal user from a file    ##
 ## Author:  Rahul
 ## Enviroment : Admin
-## Date : 02-March-2023
+## Date : 24-March-2024
 ####################################################
 
 USERF=$1
